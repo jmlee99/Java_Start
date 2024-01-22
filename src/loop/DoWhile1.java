@@ -7,6 +7,6 @@ public class DoWhile1 {
         while (i < 3){
             System.out.println("i = " + i);
         }
-                
+                /*이러면 수행이 안된다.*/
     }
 }
