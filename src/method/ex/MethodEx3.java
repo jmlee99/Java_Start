@@ -2,6 +2,7 @@ package method.ex;
 
 public class MethodEx3 {
     public static void main(String[] args) {
+        /*자바 기초 문법 코드 복습 2/15*/
         int balance = 10000;
         balance = deposit(balance, 1000);
 
